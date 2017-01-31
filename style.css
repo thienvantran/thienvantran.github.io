@@ -1,0 +1,14 @@
+#top {
+  background-color: lightgray;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  text-align: center;
+  border: 1px;
+}
+
+button {
+  background-color: lightgray;
+}
